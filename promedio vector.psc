@@ -21,5 +21,6 @@ Algoritmo Ejercicio2Verde
 	promedio = suma / num
 	
     Escribir " El promedio de la suma de todos los valores ingresados es: ", promedio
+//hola
 	
 FinAlgoritmo
